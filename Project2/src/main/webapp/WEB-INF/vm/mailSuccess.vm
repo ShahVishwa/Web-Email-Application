@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+         <title>Success!!</title>
+         <style>
+             body {
+             width:60%;
+             margin:auto;
+             }
+         </style>
+</head>
+<body>
+         <h2>Mail sent successfully to </h2>
+         <a href="inbox">Go back to Inbox</a>
+</body>
+</html>
+
+
